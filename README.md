@@ -1,6 +1,5 @@
-# Operating-System-Notes
+# Operating System
 ## Processes
-
 ### The Process
 *Process* is  a program in execution sometimes its also known as the *text section*. It also include  a process stack for temporary data, data section for global variable and it may also include the heap memory which is allocated at runtime.
 
